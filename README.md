@@ -23,6 +23,10 @@ This project is a location tracking application using Leaflet.js. It allows user
   - [Leaflet Routing Machine](https://www.liedman.net/leaflet-routing-machine/) for routing functionality
   - [Leaflet Control Geocoder](https://github.com/perliedman/leaflet-control-geocoder) for geocoding
 
+## Related Images
+![image](https://github.com/user-attachments/assets/d4a46657-6031-4339-b8b3-71638b435e3b)
+![image](https://github.com/user-attachments/assets/770a02d1-47eb-40ca-b0e5-9b93b8fea0b3)
+
 ## Installation
 
 ### Prerequisites
@@ -34,6 +38,3 @@ This project is a location tracking application using Leaflet.js. It allows user
 ```bash
 git clone https://github.com/your-username/leaflet-location-tracker.git
 cd leaflet-location-tracker
-
-
-![image](https://github.com/user-attachments/assets/d4a46657-6031-4339-b8b3-71638b435e3b)
